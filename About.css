@@ -1,0 +1,34 @@
+header {
+    background-color: #fff; /* Light background color */
+  }
+  
+  /* Article styling */
+  .about-section {
+    background-color: #f8f9fa; /* Light background color */
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    margin-top: 20px;
+  }
+  
+  /* Owner's Inspiration section */
+  h2 {
+    color: #007bff; /* Bootstrap primary color */
+  }
+  
+  /* Company's History section */
+  p {
+    line-height: 1.6;
+    color: #555;
+  }
+  
+  /* Shop's Availability section */
+  h2 + p {
+    color: #28a745; /* Bootstrap success color */
+  }
+  
+  /* Shop's Owner section */
+  h2 + p + h2,
+  h2 + p + h2 + p {
+    color: #dc3545; /* Bootstrap danger color */
+  }
+  
