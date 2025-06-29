@@ -1,0 +1,33 @@
+/* ProductSection.css */
+
+/* Products section styling */
+.products-section {
+    text-align: center;
+  }
+  
+  /* Header styling */
+  h1 {
+    color: #007bff; /* Bootstrap primary color */
+  }
+  
+  /* Card styling */
+  .card {
+    margin-bottom: 20px;
+  }
+  
+  /* Card title styling */
+  .card-title {
+    color: #343a40; /* Bootstrap dark color */
+  }
+  
+  /* Button styling */
+  .btn-primary {
+    background-color: #007bff; /* Bootstrap primary color */
+    border: none;
+  }
+  
+  .btn-success {
+    background-color: #28a745; /* Bootstrap success color */
+    border: none;
+  }
+  
